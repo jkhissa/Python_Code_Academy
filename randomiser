@@ -1,0 +1,5 @@
+import random
+if random.random() <= 1:
+    print(random.random())
+
+
